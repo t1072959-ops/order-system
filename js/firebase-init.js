@@ -5,12 +5,12 @@
 // ============================================
 
 const firebaseConfig = {
-  apiKey: "請貼上你的 apiKey",
-  authDomain: "請貼上你的 authDomain",
-  projectId: "請貼上你的 projectId",
-  storageBucket: "請貼上你的 storageBucket",
-  messagingSenderId: "請貼上你的 messagingSenderId",
-  appId: "請貼上你的 appId",
+  apiKey: "AIzaSyDzVEdHCPHbzdRCh-a6UmcWQxWwxkCk2i8",
+  authDomain: "store-46293.firebaseapp.com",
+  projectId: "store-46293",
+  storageBucket: "store-46293.firebasestorage.app",
+  messagingSenderId: "581356069497",
+  appId: "1:581356069497:web:3b5eccd2128b90cdb46aa8"
 };
 
 // 後台登入密碼(簡易保護,不是高安全性,適合內部使用)
