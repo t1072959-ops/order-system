@@ -46,7 +46,7 @@ const MENU_CATEGORIES = [
       { id: "n18", name: "酸辣湯麵(大)", price: 80, desc: "" },
       { id: "n19", name: "酸辣湯麵(小)", price: 70, desc: "" },
       { id: "n20", name: "酸辣湯餃(大13顆)", price: 90, desc: "" },
-      { id: "n21", name: "酸辣湯餃(小8顆)", price: 20, desc: "請店家確認小份價格是否正確" },
+      { id: "n21", name: "酸辣湯餃(小8顆)", price: 70, desc: "請店家確認小份價格是否正確" },
     ],
   },
   {
